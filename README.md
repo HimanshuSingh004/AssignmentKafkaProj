@@ -13,7 +13,7 @@ Date: 22/04/2022
 3. First thing done when the project was created was to add dependencies for kafka.
 
 4.  Created a class file(KafkaProd.java) to create a producer to send messages.
-4.1 Create and set properties and connection for the kafka producer.
+4.1. Create and set properties and connection for the kafka producer.
 4.2 Created a KafkaProducer to establish connection.
 4.3 Then Create the messages and send to the Consumer.
 4.4 Close the KafkaProducer connection.
