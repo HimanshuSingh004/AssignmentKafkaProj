@@ -1,9 +1,9 @@
 # KafkaProj
 Assignment Project 3
 
-Name: Himanshu Singh
-Email Id: himanshu.k.singh04@gmail.com
-Date: 08/05/2022
+Name: Himanshu Singh\
+Email Id: himanshu.k.singh04@gmail.com\
+Date: 08/05/2022\
 
 *----------------------------------------------------------------------------------*
 
